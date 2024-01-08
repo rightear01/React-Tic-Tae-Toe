@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd7d8b0b.css",
-    "main.js": "/static/js/main.09fb6f2e.js",
-    "static/js/787.078af7d2.chunk.js": "/static/js/787.078af7d2.chunk.js",
-    "index.html": "/index.html",
-    "main.fd7d8b0b.css.map": "/static/css/main.fd7d8b0b.css.map",
-    "main.09fb6f2e.js.map": "/static/js/main.09fb6f2e.js.map",
-    "787.078af7d2.chunk.js.map": "/static/js/787.078af7d2.chunk.js.map"
+    "main.css": "/React-Tic-Tae-Toe/static/css/main.fd7d8b0b.css",
+    "main.js": "/React-Tic-Tae-Toe/static/js/main.da5109de.js",
+    "static/js/787.078af7d2.chunk.js": "/React-Tic-Tae-Toe/static/js/787.078af7d2.chunk.js",
+    "index.html": "/React-Tic-Tae-Toe/index.html",
+    "main.fd7d8b0b.css.map": "/React-Tic-Tae-Toe/static/css/main.fd7d8b0b.css.map",
+    "main.da5109de.js.map": "/React-Tic-Tae-Toe/static/js/main.da5109de.js.map",
+    "787.078af7d2.chunk.js.map": "/React-Tic-Tae-Toe/static/js/787.078af7d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd7d8b0b.css",
-    "static/js/main.09fb6f2e.js"
+    "static/js/main.da5109de.js"
   ]
 }
